@@ -4,6 +4,7 @@ bin/
 lib/
 dist/
 cache/
+Cartpole_DQN_Cpp/
 *.out
 *.exe
 *.app
